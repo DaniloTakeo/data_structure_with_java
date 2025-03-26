@@ -4,11 +4,6 @@ Este repositório contém implementações das principais estruturas de dados ut
 
 ## 📌 Estruturas de Dados Implementadas
 
-### 🔹 Conceitos Fundamentais
-- Arrays
-- Strings
-- Complexidade de Algoritmos (Big-O)
-
 ### 🔹 Listas
 - Lista Simplesmente Ligada
 - Lista Duplamente Ligada
