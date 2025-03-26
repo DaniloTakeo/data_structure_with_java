@@ -69,3 +69,6 @@ Se deseja contribuir, sinta-se à vontade para enviar PRs ou abrir issues!
 
 📌 **Objetivo:** Praticar Estruturas de Dados e melhorar habilidades em Java!
 
+## 👨‍💻 Autor
+Danilo Takeo Kanizawa
+
