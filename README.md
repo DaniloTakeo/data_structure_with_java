@@ -50,7 +50,7 @@ Este repositório contém implementações das principais estruturas de dados ut
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/estruturas-dados-java.git
+   git clone git@github.com:DaniloTakeo/data_structure_with_java.git
    ```
 2. Abra o projeto em sua IDE favorita (IntelliJ, Eclipse, VS Code, etc.).
 3. Compile e execute as classes de teste.
