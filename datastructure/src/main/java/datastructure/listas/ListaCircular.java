@@ -17,7 +17,7 @@ public class ListaCircular {
         NoCircular novoNo = new NoCircular(dado);
         if (ultimo == null) {
             ultimo = novoNo;
-            ultimo.proximo = ultimo; // Aponta para si mesmo
+            ultimo.proximo = ultimo; 
         } else {
             novoNo.proximo = ultimo.proximo;
             ultimo.proximo = novoNo;
