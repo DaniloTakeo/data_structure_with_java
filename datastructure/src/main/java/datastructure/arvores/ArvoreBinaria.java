@@ -1,15 +1,5 @@
 package datastructure.arvores;
 
-class No {
-    int valor;
-    No esquerda, direita;
-
-    public No(int item) {
-        valor = item;
-        esquerda = direita = null;
-    }
-}
-
 public class ArvoreBinaria {
     No raiz;
 
