@@ -109,15 +109,15 @@ public class Trie {
         System.out.println("Palavras na Trie:");
         trie.listarPalavras();
 
-        System.out.println("\n🔍 Buscando palavras:");
+        System.out.println("\n Buscando palavras:");
         System.out.println("carro está na Trie? " + trie.buscar("carro")); // true
         System.out.println("casaco está na Trie? " + trie.buscar("casaco")); // false
 
-        System.out.println("\n🔎 Verificando prefixos:");
+        System.out.println("\n Verificando prefixos:");
         System.out.println("Prefixo 'ca' existe? " + trie.comecaCom("ca")); // true
         System.out.println("Prefixo 'xyz' existe? " + trie.comecaCom("xyz")); // false
 
-        System.out.println("\n❌ Removendo palavra 'casa'...");
+        System.out.println("\n  Removendo palavra 'casa'...");
         trie.remover("casa");
 
         System.out.println("\n🔍 Buscando palavras novamente:");
