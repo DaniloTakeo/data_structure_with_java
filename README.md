@@ -24,7 +24,7 @@ Este repositório contém implementações das principais estruturas de dados ut
 ### 🔹 Grafos
 - Representação (Matriz e Lista de Adjacência)
 - Busca em Grafos (BFS e DFS)
-- Caminho Mínimo (Dijkstra, Bellman-Ford)
+- Caminho Mínimo (Dijkstra, Bellman-Ford e Floyd-Warshall)
 - Árvore Geradora Mínima (Prim, Kruskal)
 
 ### 🔹 Tabelas Hash
